@@ -1,0 +1,7 @@
+{
+  "name": "benpoulson/woocommerce-core",
+  "require": {
+    "php": ">=5.6.20",
+    "ext-json": "*"
+  }
+}
